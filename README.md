@@ -2,11 +2,9 @@
 
 *Unlock your session using your pass card (RFID)*
 
-<img src="resources/status.png" />
-
 ### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qCtPwv6krjI" frameborder="0" allowfullscreen></iframe> 
+<a href="https://www.youtube.com/embed/qCtPwv6krjI" target="_blank"><img src="img/demo.png" /></a>
 
 #### Electronics
 
